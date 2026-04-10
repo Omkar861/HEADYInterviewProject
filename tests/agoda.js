@@ -36,7 +36,7 @@ const {formatAgodaDate} = require('./Utilis')
 const rawPrice = `${currency} ${amount}`;
 console.log(rawPrice);
 
-   console.log("✅ Top Hotel Found:");
+   console.log(" Top Hotel Found:");
    console.log("Hotel:", hotelname);
    console.log("Price:", rawPrice);
 
